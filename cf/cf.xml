@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="plugin" group="system" method="upgrade">
+    <name>cf</name>
+    <author></author>
+    <creationDate>now</creationDate>
+    <authorEmail></authorEmail>
+    <authorUrl></authorUrl>
+    <version>dev</version>
+    <description></description>
+    <files>
+        <filename plugin="cf">cf.php</filename>
+        <filename>lib.php</filename>
+    </files>
+</extension>
